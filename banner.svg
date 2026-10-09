@@ -1,1 +1,22 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <rect width="900" height="220" fill="#111110"/>
+  <path d="M738.6 49 A60 60 0 1 1 710.4 36" fill="none" stroke="#d8d2c4" stroke-width="2" opacity="0.18" stroke-linecap="round"/>
+  <path d="M0 190 L90 160 L170 185 L270 150 L360 182 L470 155 L580 188 L700 152 L800 180 L900 160 L900 220 L0 220Z" fill="#1a1a19"/>
+  <path d="M0 205 Q225 185 450 208 T900 198 L900 220 L0 220Z" fill="#232321"/>
+  <g stroke="#d8d2c4" stroke-width="0.7" opacity="0.7" fill="none">
+    <polyline points="560,70 640,40 700,95 770,60 820,120"/>
+    <line x1="700" y1="95" x2="650" y2="130"/>
+  </g>
+  <g fill="#d8d2c4">
+    <circle cx="560" cy="70" r="3"/><circle cx="640" cy="40" r="3"/>
+    <circle cx="770" cy="60" r="3"/><circle cx="820" cy="120" r="3"/>
+    <circle cx="650" cy="130" r="3"/>
+  </g>
+  <circle cx="700" cy="95" r="5" fill="#ece6d6"/>
+  <circle cx="700" cy="95" r="11" fill="none" stroke="#d8d2c4" stroke-width="0.7" opacity="0.6"/>
+  <text x="60" y="100" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#ece6d6">krash.txt</text>
+  <text x="62" y="128" font-family="'Courier New', monospace" font-size="14" letter-spacing="2" fill="#a9a496">[student developer · web · python]</text>
+  <rect x="62" y="150" width="20" height="20" fill="#b8352b"/>
+  <text x="72" y="165" text-anchor="middle" font-family="serif" font-size="13" fill="#111110">星</text>
+</svg>
