@@ -1,22 +1,34 @@
-## Hi there 👋
-## These are some of my achievements so far
-[![An image of @krishpusaprog's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishpusaprog)](https://holopin.io/@krishpusaprog)
+<p align="center">
+  <img src="banner.svg" alt="krash.txt" width="100%">
+</p>
 
-### I am currently learning
-<img width="180" height="148" alt="image" src="https://github.com/user-attachments/assets/c9c64150-e26a-4cd0-87e8-b71d2f78643a" />
+I build varieties of projects and I'm
+learning backend,kubernetes.
+I am aiming for a better understanding in everything and all stacks
 
+---
 
-<!--
-**krishpusa-prog/krishpusa-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Works
 
-Here are some ideas to get you started:
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [env-guardrail](https://github.com/krishpusa-prog/env-guardrail) | [A npm package to detect env leaks in your codebase] | TS |
+| [ZenGarden](https://github.com/krishpusa-prog/ZenGarden) | [A pomodoro app for your mental peace] | HTML |
+| [PixelPair](https://github.com/krishpusa-prog/PixelPair) | [A fast and safe similarity search application for local files]| JS |
+| [Terminal Music Player](https://github.com/krishpusa-prog/TerminalApplication-AD-) | [Your local terminal spotify] | Python |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+
+- Building: TraceNet
+- Learning: Kubernetes
+- Looking for: internships / collaborators / open source to contribute to
+
+## Stack
+
+`Python` `HTML` `CSS` `JavaScript` `Git` `ROS`
+
+## Channels
+
+[Portfolio](https://your-site.com) · [LinkedIn](www.linkedin.com/in/kaustubh-kashyap-23b690379)  · [Email](krishpusa@gmail.com)
+
+<sub>星 · [2007]</sub>
